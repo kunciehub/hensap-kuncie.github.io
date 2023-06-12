@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.kuncie.app",
+            "sha256_cert_fingerprints": [
+                "68:CE:3B:95:28:D6:6C:54:F2:EC:BE:43:66:31:D9:7A:87:23:98:A1:FF:9F:4C:8F:24:79:84:6F:2F:3B:55:80"
+            ]
+        }
+    }
+]
