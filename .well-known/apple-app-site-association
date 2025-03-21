@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UM4LH9A98N.com.kuncie.app",
+        "paths": [
+          "/lesson/*"
+        ]
+      },
+      {
+        "appID": "UM4LH9A98N.com.kuncie.preprod",
+        "paths": [
+          "/lesson/*"
+        ]
+      }
+    ]
+  }
+}
